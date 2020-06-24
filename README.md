@@ -44,7 +44,7 @@ Sensors | Proximity Sensor, Ambient Light Sensor, Accelerometer, Gyroscope, Elec
 Spec. Sheet| Primary Camera | AI Front Camera | Ultra Wide Lens | Macro Lens | Depth Camera
 ----------:|:-------------:|:---------------:|:---------------:|:----------:|:------------
 Resolution | 48MP primary camera, 1/2" image sensor, 1.6μm 4-in-1 super pixel, F/1.79 aperture, 6-element lens | 16 MP | 13MP ultra wide angle camera, FOV 120° | 5MP macro camera, 2cm macro distance | 5 Mpx
-Sensor | Samsung S5KGM1 | Samsung S5K3P3 | Unknown (generic) | Unknown (generic) | Unknown (generic)
+Sensor | [Samsung S5KGM1](https://www.samsung.com/semiconductor/image-sensor/mobile-image-sensor/S5KGM1/) | Samsung S5K3P3 | Unknown (generic) | Unknown (generic) | Unknown (generic)
 Type | ISOCELL Plus | ISOCELL Plus | -- | -- | --
 Aperture | f/ 1.79 | f/ 2.0 | -- | -- | --
 ISO | -- | -- | -- | -- | --
@@ -64,7 +64,7 @@ Network | Bands
 
 Tests | Results
 -----:|:-------
-Performance | [Basemark OS II: -- / Basemark OS II 2.0: -- Basemark X: --](link_here)
+Performance | Basemark OS II: -- / Basemark OS II 2.0: -- Basemark X: --
 Display | Contrast ratio: -- (nominal), -- (sunlight)
 Camera | Photo / Video
 Loudspeaker | Voice -- / Noise -- / Ring --
