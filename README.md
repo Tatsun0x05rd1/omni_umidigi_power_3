@@ -44,11 +44,11 @@ Sensors | Proximity Sensor, Ambient Light Sensor, Accelerometer, Gyroscope, Elec
 Spec. Sheet| Primary Camera | AI Front Camera | Ultra Wide Lens | Macro Lens | Depth Camera
 ----------:|:-------------:|:---------------:|:---------------:|:----------:|:------------
 Resolution | 48MP primary camera, 1/2" image sensor, 1.6μm 4-in-1 super pixel, F/1.79 aperture, 6-element lens | 16 MP | 13MP ultra wide angle camera, FOV 120° | 5MP macro camera, 2cm macro distance | 5 Mpx
-Sensor | [Samsung S5KGM1](https://www.samsung.com/semiconductor/image-sensor/mobile-image-sensor/S5KGM1/) | Samsung S5K3P3 | Unknown (generic) | Unknown (generic) | Unknown (generic)
-Type | ISOCELL Plus | ISOCELL Plus | -- | -- | --
+Sensor | [Samsung S5KGM1](https://www.samsung.com/semiconductor/image-sensor/mobile-image-sensor/S5KGM1/) | [Samsung S5K3P3](https://www.samsung.com/semiconductor/image-sensor/mobile-image-sensor/S5K3P3/) | Unknown (generic) | Unknown (generic) | Unknown (generic)
+Pixel Type | ISOCELL Plus | ISOCELL Plus | -- | -- | --
 Aperture | f/ 1.79 | f/ 2.0 | -- | -- | --
 ISO | -- | -- | -- | -- | --
-Pixel size | 1.60 µm | 1.00 µm | -- | -- | --
+Pixel size | 0.8 to 1.60 µm | 1.00 µm | -- | -- | --
 Sensor size | 1/2.0 in | 1/3.06 in | -- | -- | --
 
 
