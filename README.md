@@ -78,7 +78,7 @@ _Note: Above test results might(not) vary._
 ## Build Instructions
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
-source build/envsetup.sh
-lunch omni_umidigi_power_3
+. build/envsetup.sh
+lunch omni_Power_3-eng
 mka recoveryimage
 ```
