@@ -61,7 +61,7 @@ TARGET_KERNEL_CONFIG := Power_3_defconfig
 
 # Platform
 # Fix this
-TARGET_BOARD_PLATFORM := mt6761
+TARGET_BOARD_PLATFORM := mt6771
 #TARGET_BOARD_PLATFORM_GPU := 
 
 # Assert
